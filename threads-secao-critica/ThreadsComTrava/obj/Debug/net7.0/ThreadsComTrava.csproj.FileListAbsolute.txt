@@ -1,0 +1,14 @@
+C:\Users\ferre\threads-secao-critica\ThreadsComTrava\bin\Debug\net7.0\ThreadsComTrava.exe
+C:\Users\ferre\threads-secao-critica\ThreadsComTrava\bin\Debug\net7.0\ThreadsComTrava.deps.json
+C:\Users\ferre\threads-secao-critica\ThreadsComTrava\bin\Debug\net7.0\ThreadsComTrava.runtimeconfig.json
+C:\Users\ferre\threads-secao-critica\ThreadsComTrava\bin\Debug\net7.0\ThreadsComTrava.dll
+C:\Users\ferre\threads-secao-critica\ThreadsComTrava\bin\Debug\net7.0\ThreadsComTrava.pdb
+C:\Users\ferre\threads-secao-critica\ThreadsComTrava\obj\Debug\net7.0\ThreadsComTrava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferre\threads-secao-critica\ThreadsComTrava\obj\Debug\net7.0\ThreadsComTrava.AssemblyInfoInputs.cache
+C:\Users\ferre\threads-secao-critica\ThreadsComTrava\obj\Debug\net7.0\ThreadsComTrava.AssemblyInfo.cs
+C:\Users\ferre\threads-secao-critica\ThreadsComTrava\obj\Debug\net7.0\ThreadsComTrava.csproj.CoreCompileInputs.cache
+C:\Users\ferre\threads-secao-critica\ThreadsComTrava\obj\Debug\net7.0\ThreadsComTrava.dll
+C:\Users\ferre\threads-secao-critica\ThreadsComTrava\obj\Debug\net7.0\refint\ThreadsComTrava.dll
+C:\Users\ferre\threads-secao-critica\ThreadsComTrava\obj\Debug\net7.0\ThreadsComTrava.pdb
+C:\Users\ferre\threads-secao-critica\ThreadsComTrava\obj\Debug\net7.0\ThreadsComTrava.genruntimeconfig.cache
+C:\Users\ferre\threads-secao-critica\ThreadsComTrava\obj\Debug\net7.0\ref\ThreadsComTrava.dll
